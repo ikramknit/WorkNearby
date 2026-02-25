@@ -1,0 +1,5 @@
+{
+  "name": "WorkNearby",
+  "description": "Connect with local workers and jobs using real-time GPS location.",
+  "requestFramePermissions": ["geolocation"]
+}
